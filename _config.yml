@@ -10,3 +10,7 @@ kramdown:
 permalink: pretty
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
