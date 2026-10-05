@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header" role="banner" aria-label="Site header">
+      <div class="container">
+        <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+        <p class="site-subtitle">Making everyday communication visible through theory</p>
+        <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/transmission-view-limits/' | relative_url }}">Transmission view</a></li>
+            <li><a href="{{ '/meaning-and-culture/' | relative_url }}">Meaning and culture</a></li>
+            <li><a href="{{ '/interpretation-and-power/' | relative_url }}">Interpretation and power</a></li>
+            <li><a href="{{ '/interpretation-and-intention/' | relative_url }}">Interpretation and intention</a></li>
+            <li><a href="{{ '/what-the-reader-should-do/' | relative_url }}">What to do</a></li>
+            <li><a href="{{ '/how-i-built-this-site/' | relative_url }}">How this site was built</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="container" role="main" aria-label="Main content">
+      <article aria-labelledby="page-title">
+        <h1 id="page-title">{{ page.title }}</h1>
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo" aria-label="Site footer">
+      <div class="container">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. Built with Jekyll for GitHub Pages.</p>
+      </div>
+    </footer>
+  </body>
+</html>

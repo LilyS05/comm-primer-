@@ -1,0 +1,16 @@
+title: "Communication Theory Primer"
+description: "An accessible introduction to communication theory for contemporary communication challenges."
+url: "https://lilys05.github.io"
+baseurl: "/comm-primer-"
+lang: "en"
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

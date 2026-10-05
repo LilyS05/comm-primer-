@@ -1,0 +1,138 @@
+---
+---
+:root {
+  --color-primary-900: #0b2e59;
+  --color-primary-700: #114a8d;
+  --color-primary-600: #1a5fb4;
+  --color-primary-100: #dce9f8;
+  --color-background: #f7fbff;
+  --color-surface: #ffffff;
+  --color-text: #1f2937;
+  --color-link: #114a8d;
+  --color-link-hover: #0b2e59;
+  --color-border: #c9d8eb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-background);
+}
+
+.container {
+  width: min(100% - 2rem, 68rem);
+  margin-inline: auto;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 1rem;
+  background: var(--color-primary-900);
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.4rem;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+.site-header {
+  background: linear-gradient(130deg, var(--color-primary-900), var(--color-primary-600));
+  color: #fff;
+  padding: 1.5rem 0;
+}
+
+.site-title,
+.site-subtitle {
+  margin: 0;
+}
+
+.site-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.site-title a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-subtitle {
+  margin-top: 0.35rem;
+  opacity: 0.95;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.site-nav a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.2rem 0;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem 0 3rem;
+}
+
+article {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 0.8rem;
+  padding: 1.5rem;
+}
+
+a {
+  color: var(--color-link);
+}
+
+a:hover,
+a:focus {
+  color: var(--color-link-hover);
+}
+
+.card-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 0;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.card-list li {
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  background: #f2f7fd;
+  padding: 0.9rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  background: #eaf2fb;
+  padding: 1rem 0;
+}
+
+@media (min-width: 58rem) {
+  .site-nav ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
