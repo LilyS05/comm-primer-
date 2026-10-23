@@ -13,7 +13,7 @@ Use the pages below as a structured path to learn about this communication issue
 <section aria-label="Site sections">
   <ul class="card-list">
     <li><a href="{{ '/transmission-view-limits/' | relative_url }}"><strong>The transmission view and its limits</strong></a> 
-    <li><a href="{{ '/meaning-and-culture/' | relative_url }}"><strong>Meaning and culture</strong></a> — </li>
+    <li><a href="{{ '/meaning-and-culture/' | relative_url }}"><strong>Meaning and culture</strong></a>  </li>
     <li><a href="{{ '/interpretation-and-power/' | relative_url }}"><strong>Interpretation and power</strong></a> 
     <li><a href="{{ '/interpretation-and-intention/' | relative_url }}"><strong>Interpretation and intention</strong></a> 
     <li><a href="{{ '/what-the-reader-should-do/' | relative_url }}"><strong>What the reader should do</strong></a>
