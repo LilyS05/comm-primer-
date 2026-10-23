@@ -4,8 +4,6 @@ title: "Meaning and culture"
 permalink: /meaning-and-culture/
 ---
 
-This section focuses on semiotics and asks not only whether messages move, but how they mean. A symbol does not carry a fixed interpretation by itself; interpretation is shaped by social and cultural codes.
+When you read a message from your doctor, you notice more than the facts. The tone, the wording, and even the name at the bottom tell you whether your provider really cares. A phrase like “I completely understand your concern” can feel kind, but it can also feel like a form letter written by a computer. 
 
-Use this page to show how the same phrase, image, or AI-generated output can be interpreted differently across communities.
-
-Develop your own argument about how meaning emerges in context and why communication failures often come from competing cultural assumptions rather than technical transmission errors.
+Medical words can cause confusion too. Doctors use “unremarkable” to mean “normal,” but to a patient reading test results, it can sound vague or even dismissive. Your age, background, language, and mood all affect how you read a message, so two people can take away very different things from the exact same words. An AI that writes the same kind of reply for everyone can’t account for those differences on its own.
