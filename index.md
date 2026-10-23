@@ -18,5 +18,4 @@ Use the pages below as a structured path to learn about this communication issue
     <li><a href="{{ '/interpretation-and-intention/' | relative_url }}"><strong>Interpretation and intention</strong></a> 
     <li><a href="{{ '/what-the-reader-should-do/' | relative_url }}"><strong>What the reader should do</strong></a>
     <li><a href="{{ '/how-i-built-this-site/' | relative_url }}"><strong>How I built this site</strong></a> 
-  </ul>
-</section>
+
