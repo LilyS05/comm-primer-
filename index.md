@@ -8,7 +8,7 @@ If you’ve ever sent a question through MyChart or another patient portal, the 
 
 AI can help busy care teams respond faster, but it can also change how a message sounds, what it leaves out, and how it makes you feel. This page walks through what that means for you, in plain language, and what you can do to make sure you’re getting the care and answers you deserve.
 
-Use the pages below as a structured path to learn about this communication issue, what what you can do. 
+Use the pages below as a structured path to learn about this communication issue and what what you can do. 
 
 <section aria-label="Site sections">
   <ul class="card-list">
