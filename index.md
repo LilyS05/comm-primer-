@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-Welcome to this project website! It is designed for readers who deal with communication problems in everyday life and want practical tools from communication theory without technical jargon.
+If you’ve ever sent a question through MyChart or another patient portal, the reply you got back may have been drafted by AI before your doctor or nurse sent it. That’s becoming more common, and most patients don’t know it’s happening.
 
-This site introduces major schools of communication thought and applies them to contemporary 21st-century challenges, including communication shaped by artificial intelligence. The core goal is to make the commonplace visible: everyday misunderstandings, conflicts, and distortions become easier to analyze when we name the communication model at work.
+AI can help busy care teams respond faster, but it can also change how a message sounds, what it leaves out, and how it makes you feel. This page walks through what that means for you, in plain language, and what you can do to make sure you’re getting the care and answers you deserve.
 
 Use the pages below as a structured path. Replace or expand each section with your own analysis, examples, and references.
 
