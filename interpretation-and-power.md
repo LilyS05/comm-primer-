@@ -4,8 +4,6 @@ title: "Interpretation and power"
 permalink: /interpretation-and-power/
 ---
 
-This section introduces Stuart Hall's encoding/decoding model as a practical way to analyze who gets to define meaning.
+The same message can be understood in very different ways. A hospital may see its replies as reassuring and efficient, while patients may find them cold or careless. You might accept a message as it’s meant, accept part of it while questioning the rest, or reject it entirely. When AI writes the first draft, it sets the starting point before any person makes changes, and that quietly shapes what the doctor ends up sending. 
 
-Use this page to examine how institutions, platforms, media organizations, and algorithmic systems shape dominant readings while audiences negotiate, adapt, or resist them.
-
-Add your own case studies to explain how power influences interpretation and why communication problems are often struggles over legitimacy, not just misunderstandings.
+Many people have a hand in the message: the companies that make the AI, the hospital, the doctor, and you. But you know the least about how it was written. Telling patients when AI is used would help them understand what they’re reading and decide how much to trust it.
