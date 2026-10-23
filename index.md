@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Welcome to this project website. It is designed for readers who deal with communication problems in everyday life and want practical tools from communication theory without technical jargon.
+Welcome to this project website! It is designed for readers who deal with communication problems in everyday life and want practical tools from communication theory without technical jargon.
 
 This site introduces major schools of communication thought and applies them to contemporary 21st-century challenges, including communication shaped by artificial intelligence. The core goal is to make the commonplace visible: everyday misunderstandings, conflicts, and distortions become easier to analyze when we name the communication model at work.
 
